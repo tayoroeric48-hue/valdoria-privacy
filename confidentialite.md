@@ -6,7 +6,7 @@ Dernière mise à jour : 16 novembre 2026
 
 1. Présentation
 
-Valdoria : Le Mandat est un jeu de simulation politique et de gestion urbaine développé par Tayoro Eric pour Android.
+Valdoria : Le Mandat lite est un jeu de simulation politique et de gestion urbaine développé par Tayoro Eric pour Android.
 
 Le jeu fonctionne entièrement hors ligne et ne nécessite aucune connexion Internet.
 
