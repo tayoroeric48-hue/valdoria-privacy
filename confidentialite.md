@@ -1,45 +1,40 @@
 # Politique de confidentialité — Valdoria : Le Mandat Lite
 
 **Dernière mise à jour : 16 novembre 2026**  
-**Développeur / responsable du traitement :** Tayoro Eric  
 **Application :** Valdoria : Le Mandat Lite (Android)  
-**Contact :** [tayoroeric48@gmail.com](mailto:tayoroeric48@gmail.com)
+**Développeur / contact :** Tayoro Eric — [tayoroeric48@gmail.com](mailto:tayoroeric48@gmail.com)
 
-## 1. Objet et champ d’application
+## 1. Fonctionnement entièrement hors ligne
 
-Cette politique décrit le traitement des informations dans l’application mobile **Valdoria : Le Mandat Lite**, un jeu de simulation politique et de gestion urbaine. Elle concerne l’application et ses fonctionnalités, et non les traitements effectués séparément par Google Play, Android ou les autres services de votre appareil.
+Valdoria : Le Mandat Lite est un jeu qui fonctionne entièrement hors ligne. Une connexion Internet n’est pas nécessaire pour installer et utiliser les fonctionnalités du jeu. L’application n’affiche aucune publicité et n’intègre aucun service publicitaire, outil d’analyse ou service tiers en ligne.
 
-## 2. Données collectées par le développeur
+## 2. Données personnelles
 
-Dans son fonctionnement actuel, l’application fonctionne hors ligne. Elle ne demande pas la création d’un compte et le développeur ne collecte, ne reçoit, ne vend ni ne partage de données personnelles ou de données d’utilisation provenant de l’application. L’application n’intègre ni publicité ni service d’analyse tiers destiné à collecter des données.
+Le développeur ne collecte, ne reçoit, ne vend ni ne partage de données personnelles ou de données d’utilisation par l’intermédiaire du jeu. L’application ne requiert pas de compte utilisateur et n’envoie pas de données à un serveur. Aucune donnée n’est transmise au développeur par le jeu.
 
-Les services de Google Play, Android ou du fabricant de l’appareil peuvent traiter certaines informations selon leurs propres modalités et politiques. Ces traitements sont indépendants de ceux du développeur de l’application.
+Les services de Google Play, Android ou du fabricant de l’appareil sont distincts de l’application et peuvent être soumis à leurs propres politiques et réglages.
 
-## 3. Données enregistrées sur l’appareil
+## 3. Sauvegardes et données de jeu
 
-La progression et les sauvegardes de jeu sont conservées dans la mémoire de l’appareil afin de permettre la reprise de la partie. Elles ne sont pas envoyées au développeur ni à un serveur exploité par celui-ci.
+La progression et les sauvegardes sont enregistrées localement sur l’appareil afin de permettre la reprise de la partie. Le développeur n’y a pas accès et aucune copie n’est envoyée à un serveur par l’application.
 
-Vous pouvez supprimer les données de l’application depuis les paramètres Android de l’appareil ou désinstaller l’application. Cette opération peut supprimer la progression locale. Les sauvegardes éventuellement gérées par le système Android ou un service de sauvegarde de l’appareil restent soumises aux réglages et politiques de ces services.
+La suppression des données de l’application ou sa désinstallation peut entraîner la perte de la progression locale. Les sauvegardes éventuellement gérées séparément par Android ou un service de l’appareil restent soumises aux réglages et politiques de ces services.
 
 ## 4. Autorisations de l’appareil
 
-L’application n’a pas besoin d’accéder aux contacts, à la caméra, au microphone ou à la localisation pour ses fonctionnalités de jeu actuelles. Les autorisations éventuellement requises par Android ou ajoutées dans une version future seront indiquées dans les informations de l’application et, le cas échéant, dans une mise à jour de cette politique.
+Les fonctionnalités actuelles du jeu ne nécessitent pas d’accès aux contacts, à la caméra, au microphone ou à la localisation. Si cela change dans une version ultérieure, les informations de l’application et cette politique seront mises à jour en conséquence.
 
-## 5. Conservation et sécurité
+## 5. Sécurité
 
-Les données de partie décrites ci-dessus restent sur l’appareil sous le contrôle de l’utilisateur. Leur protection dépend notamment de la sécurité de l’appareil et de ses paramètres. Le développeur n’a pas accès à ces données locales et ne conserve pas de copie sur un serveur.
+Les données de jeu étant stockées sur l’appareil, leur protection dépend également de la sécurité et des paramètres de cet appareil. Le développeur ne conserve aucune sauvegarde sur un serveur.
 
-## 6. Enfants et données personnelles
+## 6. Modifications de cette politique
 
-L’application ne met pas en place de collecte de données personnelles par le développeur. Si vous avez une question ou pensez que des informations nous ont été transmises par erreur, contactez-nous à l’adresse indiquée ci-dessous afin que nous puissions examiner la demande.
+Cette politique pourra être mise à jour si les fonctionnalités ou les pratiques de l’application évoluent. La date de mise à jour sera indiquée en haut de cette page.
 
-## 7. Modifications de cette politique
+## 7. Contact
 
-Cette politique pourra être mise à jour si les fonctionnalités, les traitements de données ou les exigences applicables évoluent. La date de dernière mise à jour figurera en haut de cette page. En cas de changement important, les informations de l’application pourront également être actualisées.
-
-## 8. Contact
-
-Pour toute question concernant cette politique ou la confidentialité dans l’application :
+Pour toute question concernant cette politique ou la confidentialité dans le jeu, contactez :
 
 **Tayoro Eric**  
 **Application :** Valdoria : Le Mandat Lite  
